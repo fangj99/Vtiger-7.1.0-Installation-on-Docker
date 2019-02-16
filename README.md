@@ -60,3 +60,10 @@ https://cytranet.dl.sourceforge.net/project/vtigercrm/vtiger%20CRM%207.1.0/Core%
 
 
 ## Then you can find the Vtiger 7.1.0 GUI on http://serverip:8011
+
+
+Reference:
+```
+https://websiteforstudents.com/configure-vtiger-crm-on-ubuntu-16-04-lts-with-nginx-mariadb-and-php-7-1-support/
+
+```
