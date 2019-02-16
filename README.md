@@ -61,6 +61,15 @@ https://cytranet.dl.sourceforge.net/project/vtigercrm/vtiger%20CRM%207.1.0/Core%
 
 ## Then you can find the Vtiger 7.1.0 GUI on http://serverip:8011
 
+## Other problem
+### Vtiger7-Import-Manual-Installation
+```
+https://github.com/fangj99/Vtiger7-Import-Manual-Installation
+```
+### Vtiger7-Language-Pack-Installation
+```
+https://github.com/fangj99/Vtiger7-Language-Pack-Installation
+```
 
 Reference:
 ```
